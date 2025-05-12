@@ -41,7 +41,7 @@ On a held‑out validation set the best model achieved:
 2. **Pre‑processing** – fill missing numbers with the median, scale all numbers to 0‑1, and one‑hot encode text columns.
 3. **Model** – a feed‑forward neural network with three hidden layers (128‑64‑32) and a sigmoid output.
 4. **Tuning** – test different optimizers, learning rates, and batch sizes. Best combo: RMSprop (lr 0.01) with batch 64.
-5. **Saving** – store the trained model (`final_rmsprop_model.keras`) and the data‑cleaning pipeline (`preprocessing_pipeline.pkl`).
+5. **Saving** – store the trained model (`transmission_model.keras`) and the data‑cleaning pipeline (`preprocessing_pipeline.pk`).
 
 ---
 
