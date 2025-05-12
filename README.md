@@ -48,7 +48,6 @@ On a held‑out validation set the best model achieved:
 ## 5. Credits
 
 * Dataset by **Sukrit Chatterjee** on Kaggle.
-* Code and write‑up by **Your Name** (feel free to fork or star!).
 
 ---
 
