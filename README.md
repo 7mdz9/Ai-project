@@ -9,7 +9,7 @@ A beginner‑friendly machine‑learning project that guesses whether a used car
 * Uses a public dataset of 34 000 Indian used‑car ads.
 * Cleans and tidies the raw data so a computer can understand it.
 * Trains a small neural‑network model.
-* Reaches about **91 % accuracy** on cars it hasn’t seen before.
+* Reaches about **91 % accuracy**.
 * Saves the model and a helper script so you can test new cars easily.
 
 ---
